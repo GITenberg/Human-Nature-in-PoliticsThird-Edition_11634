@@ -1,0 +1,28 @@
+_repo: Human-Nature-in-PoliticsThird-Edition_11634
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallas, Graham
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '4055'
+    url: http://www.gutenberg.org/2009/agents/4055
+    wikipedia: http://en.wikipedia.org/wiki/Graham_Wallas
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Politics, Practical'
+- !lcsh 'Political ethics'
+- !lcc 'JF'
+- GITenberg
+title: 'Human Nature in Politics
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/11634
